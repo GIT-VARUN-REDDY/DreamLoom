@@ -1,0 +1,56 @@
+{
+  "id": "bedtime",
+  "name": "Bedtime Routine",
+  "description": "A gentle bedtime story following your baby's nightly routine",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "title": "Cover",
+      "type": "cover",
+      "text": "[Baby Name]'s Bedtime Adventure",
+      "subtitle": "A Magical Journey to Dreamland"
+    },
+    {
+      "pageNumber": 2,
+      "title": "Bath Time",
+      "type": "story",
+      "text": "Splish, splash! Little [Baby Name] loves bath time. The warm water feels so nice, and the bubbles dance and pop. [Baby Name] giggles as tiny rubber ducks float by. Clean and cozy, it's time for the next adventure!"
+    },
+    {
+      "pageNumber": 3,
+      "title": "Pajama Time",
+      "type": "story",
+      "text": "Now it's time for the softest, coziest pajamas! [Baby Name] stretches little arms up high as [Parent Name] helps with the buttons. The pajamas have the sweetest pattern, perfect for a night full of wonderful dreams."
+    },
+    {
+      "pageNumber": 4,
+      "title": "Family Cuddle",
+      "type": "story",
+      "text": "The best part of the evening is cuddle time! [Baby Name] snuggles close with [Parent Name], feeling warm and safe. Little arms wrap around for the biggest hug. Love fills the room like a cozy blanket."
+    },
+    {
+      "pageNumber": 5,
+      "title": "Story Time",
+      "type": "story",
+      "text": "With a favorite book in hand, [Baby Name] listens to magical tales of faraway lands. Each page brings new wonders and adventures. [Baby Name]'s eyes grow wide with amazement at every turn of the page."
+    },
+    {
+      "pageNumber": 6,
+      "title": "Lullaby Time",
+      "type": "story",
+      "text": "A gentle song fills the air as [Parent Name] hums a sweet lullaby. The melody dances through the room like fireflies in summer. [Baby Name]'s eyes begin to feel heavy, filled with peaceful dreams waiting to begin."
+    },
+    {
+      "pageNumber": 7,
+      "title": "Goodnight Kiss",
+      "type": "story",
+      "text": "One sweet kiss on [Baby Name]'s forehead, then another on each cheek. 'Goodnight, little one,' whispers [Parent Name] softly. The nightlight glows warmly, keeping watch through the night."
+    },
+    {
+      "pageNumber": 8,
+      "title": "Sweet Dreams",
+      "type": "story",
+      "text": "And now, dear [Baby Name] drifts off to dreamland, where unicorns play and stars sing lullabies. Tomorrow brings new adventures, but for now, sleep tight, little one. Sweet dreams until morning light."
+    }
+  ]
+}
