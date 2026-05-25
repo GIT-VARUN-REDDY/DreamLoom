@@ -7,8 +7,8 @@ const razorpay = new Razorpay({
   key_secret: process.env.RAZORPAY_KEY_SECRET,
 });
 
-const FULL_PRICE     = 19900; // ₹199
-const DISCOUNT_PRICE =  9950; // ₹99.50
+const FULL_PRICE     = 500; // ₹5.00
+const DISCOUNT_PRICE =  1000; // ₹10.00 (for first 30 users)
 
 const createOrder = async (req, res) => {
   try {
