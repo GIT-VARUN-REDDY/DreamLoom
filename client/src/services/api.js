@@ -93,4 +93,4 @@ export const adminPdfUrl = (filename, type = "preview") => {
   const baseUrl = "https://dreamloom-i2oa.onrender.com/api";
 
   return `${baseUrl}/admin/pdf/${type}/${filename}?token=${token}`;
-};
+}; 
