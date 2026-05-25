@@ -110,9 +110,9 @@ const StoryForm = ({ onSuccess }) => {
         <p className="text-gray-600 mb-4">Fill in the details below and upload your favourite photos</p>
         {/* Pricing badge */}
         <div className="inline-flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-full font-bold text-lg shadow-lg">
-          <span>Only ₹199</span>
+          <span>Only ₹5.00</span>
           <span className="opacity-60">|</span>
-          <span>$2.99</span>
+          <span>$0.06</span>
         </div>
       </div>
 

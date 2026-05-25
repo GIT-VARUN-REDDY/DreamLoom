@@ -104,7 +104,7 @@ export default function Dashboard() {
                 }}>FIRST 30 FAMILIES</span>
               </div>
               <p style={{ color:"rgba(255,255,255,0.7)", fontSize:"14px", margin:0 }}>
-                You're one of our first 30 families! Pay only <strong style={{color:"#fbbf24"}}>₹99.50</strong> instead of ₹199
+                You're one of our first 30 families! Pay only <strong style={{color:"#fbbf24"}}>₹5.00</strong> instead of ₹10.00
               </p>
             </div>
             <Link to="/create" style={{
