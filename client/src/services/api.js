@@ -38,7 +38,7 @@ export const pdfUrl = (filename, type = "preview") => {
   const token   = localStorage.getItem("dl_token") || "";
   const baseUrl = "https://dreamloom-i2oa.onrender.com/api";
   return `${baseUrl}/storybook/${type}/${filename}?token=${token}`;
-};
+}; 
 
 export const adminPdfUrl = (filename, type = "preview") => {
   const token   = localStorage.getItem("dl_token") || "";
