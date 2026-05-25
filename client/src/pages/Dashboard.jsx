@@ -136,7 +136,7 @@ export default function Dashboard() {
               <p style={{ color:s.color, fontSize:s.small?"15px":"26px", fontWeight:"bold", margin:0 }}>{s.value}</p>
             </div>
           ))}
-        </div>
+        </div> 
 
         {/* Create button */}
         <div style={{ marginBottom:"36px" }}>
